@@ -1,0 +1,52 @@
+/*h1 {
+	color: red;
+}
+li {
+	color: green;
+}
+h4 {
+	color: purple;
+}
+*/
+
+/*h1 {
+	color: #DB1FDE;
+}*/
+
+/*h1 {
+	color: rgb(68,100,200);
+}*/
+
+h1{
+	color: rgba(0,200,100,0.5);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px dashed rgb(200,70,50);
+}
+
+/*for border we need:
+width
+color
+style*/
+
+
+
+h4{
+	background: rgb(200,70,50);
+}
+
+body{
+
+	background: pink;
+
+
+	/*background: url(https://cdn.shopify.com/s/files/1/0883/0018/products/ash_7b669c76-fe0e-4b25-8035-d91ed184dee2.jpg?v=1532778594);
+	background-repeat: no-repeat;
+	background-size: cover;
+*/
+}
+
+
+ 
