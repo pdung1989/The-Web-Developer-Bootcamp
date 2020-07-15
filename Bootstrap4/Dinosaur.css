@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(177, 175, 172);
+    font-family: 'PT Sans', sans-serif;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+    color: #5d12d6;
+    font-size: 2rem;
+}
+
+#mainNavbar .nav-link {
+    color: rgb(236, 141, 15);
+}
+#mainNavbar .nav-link:hover {
+    color: #5d12d6;
+}
+.navbar-toggler {
+    background-color: rgb(236, 141, 15);
+}
+
+#headingGroup span {
+    color: rgb(236, 141, 15);
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 3rem;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 2rem;
+}
+
+.change h2 {
+    color: rgb(236, 141, 15);
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.change p {
+    color:  #5d12d6;
+    font-size: 1.125rem;
+    font-weight: 100;
+    line-height: 1.5;
+}
+
+.navbar.scrolled {
+    background: rgb(83, 158, 68);
+    transition: background 500ms;
+}
